@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:ender_spawner"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:ender_spawner/craft"
+  }
+}

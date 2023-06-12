@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:light_spawner"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:light_spawner/craft"
+  }
+}

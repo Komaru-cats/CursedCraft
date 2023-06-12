@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:fireball100"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:fireball100/craft"
+  }
+}

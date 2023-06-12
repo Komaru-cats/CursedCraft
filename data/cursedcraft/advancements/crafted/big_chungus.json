@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:big_chungus"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:big_chungus/craft"
+  }
+}

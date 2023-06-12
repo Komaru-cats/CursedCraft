@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cruuper",
+  "pattern": [
+    "010",
+    "101",
+    "010"
+  ],
+  "key": {
+    "1": {
+      "item": "gunpowder"
+    },
+    "0": {
+      "item": "blaze_powder"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

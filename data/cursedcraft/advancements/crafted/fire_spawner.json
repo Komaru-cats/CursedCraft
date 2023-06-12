@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:fire_spawner"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:fire_spawner/craft"
+  }
+}

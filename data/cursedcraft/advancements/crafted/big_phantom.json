@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:big_phantom"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:big_phantom/craft"
+  }
+}

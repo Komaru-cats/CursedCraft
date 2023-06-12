@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:end_arrow"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:end_arrow/craft"
+  }
+}
