@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "AnimeGun",
+  "pattern": [
+    "111",
+    "111",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}
