@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "AnimeGun",
+  "pattern": [
+    "111",
+    "423",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:pufferfish"
+    },
+    "3": {
+      "item": "minecraft:ender_pearl"
+    },
+    "4": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cursedcraft:illsuioner"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cursedcraft:illsuioner/craft"
+  }
+}
